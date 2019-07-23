@@ -1,0 +1,7 @@
+/node_modules
+
+# dependencies
+client/node_modules
+
+# production
+client/build
